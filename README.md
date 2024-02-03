@@ -1,2 +1,3 @@
 # Sweet-Cherry-E-com App
 This is an application of full stack (MERN+Web Basics) with front end and back end.
+Author- Aashi Kothari
